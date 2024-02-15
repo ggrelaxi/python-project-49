@@ -21,7 +21,7 @@ def run_engine(rules, generateRound):
         if user_answer != corrent_answer:
             print(f'{user_answer} is wrong answer ;(. ')
             print(f'Correct answer was {corrent_answer}.')
-            print(f"Let's try again, {name}")
+            print(f"Let's try again, {name}!")
             return
 
         print('Correct')
