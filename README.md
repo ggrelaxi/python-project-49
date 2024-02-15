@@ -24,7 +24,7 @@ $ poetry install
 $ make brain-calc
 ```
 
-[![asciicast](https://asciinema.org/a/331819.png)](https://asciinema.org/a/331819)
+[![asciicast](https://asciinema.org/a/640687.png)](https://asciinema.org/a/640687)
 
 ## Brain even
 
@@ -32,11 +32,15 @@ $ make brain-calc
 $ make brain-even
 ```
 
+[![asciicast](https://asciinema.org/a/640690.png)](https://asciinema.org/a/640690)
+
 ## Brain prime
 
 ```sh
 $ make brain-prime
 ```
+
+[![asciicast](https://asciinema.org/a/640693.png)](https://asciinema.org/a/640693)
 
 ## Brain progression
 
@@ -44,8 +48,12 @@ $ make brain-prime
 $ make brain-progression
 ```
 
+[![asciicast](https://asciinema.org/a/640694.png)](https://asciinema.org/a/640694)
+
 ## Brain gcd
 
 ```sh
 $ make brain-gcd
 ```
+
+[![asciicast](https://asciinema.org/a/640696.png)](https://asciinema.org/a/640696)
