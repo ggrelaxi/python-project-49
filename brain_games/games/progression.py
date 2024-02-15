@@ -7,7 +7,7 @@ def generate_progression(start, step, length):
 
     for i in range(length):
         progression.append(start + step * i)
-    
+
     return progression
 
 

@@ -11,6 +11,7 @@ def is_prime(num):
             return False
     return True
 
+
 def generate_round():
     number = randint(1, 100)
     answer = 'yes' if is_prime(number) else 'no'
