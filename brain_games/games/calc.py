@@ -24,7 +24,7 @@ def generate_round():
     num2 = randint(1, 100)
     operator = get_random_operator()
     question = f'{num1} {operator} {num2}'
-    answer = calculate(num1, num2, operator)
+    answer = str(calculate(num1, num2, operator))
 
     return (question, answer)
 
